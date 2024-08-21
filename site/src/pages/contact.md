@@ -13,8 +13,8 @@ eleventyNavigation:
   order: 5
 ---
 
-Email: allebach01@allegheny.edu
+Email: jakeyjakey285@gmail.com
 
-Discord: Okzz#1560
+Discord: okzz
 
 GitHub: [Jacob-Allebach](https://www.github.com/Jacob-Allebach)
